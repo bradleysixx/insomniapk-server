@@ -422,7 +422,7 @@ public class InterfaceManager {
 			}
 
 			StringBuilder bldr = new StringBuilder();
-			bldr.append("<col=" + ChatColors.RED + "><u>" + Constants.SERVER_NAME + "</u></col><br><br>");
+			bldr.append("<img=3> <col=" + ChatColors.YELLOW + ">" + Constants.SERVER_NAME + ":</u></col><br><br>");
 			
 			bldr.append("Uptime: <col=" + ChatColors.WHITE + ">" + ServerInformation.get().getGameUptime() + "<br>");
 			bldr.append("Restart In: <col=" + ChatColors.WHITE + ">" + ServerInformation.get().getRestartTime() + "<br>");
@@ -431,11 +431,11 @@ public class InterfaceManager {
 
 			String description = WildernessActivityManager.getSingleton().getActivityDescription();
 			if (description != null) {			
-				bldr.append("<br><col=" + ChatColors.RED + "><u>Wilderness Activity</u></col><br><br>");	
+				bldr.append("<br><col=" + ChatColors.YELLOW + "><u>Wilderness Activity</u></col><br><br>");	
 				bldr.append("Description: <col=" + ChatColors.ORANGE + ">" + description + "<br>");
 			}
 
-			bldr.append("<br><col=" + ChatColors.RED + "><u>" + player.getDisplayName() + (player.getDisplayName().endsWith("s") ? "'" : "'s") + " Statistics</u></col><br><br>");
+			bldr.append("<br><col=" + ChatColors.YELLOW + ">" + player.getDisplayName() + (player.getDisplayName().endsWith("s") ? "'" : "'s") + " Statistics</col><br><br>");
 			
 			bldr.append("Rank: <col=" + ChatColors.WHITE + ">" + Utils.formatPlayerNameForDisplay(player.getMainGroup().name()) + "<br>");
 			bldr.append("Playtime</col>: <col=" + ChatColors.WHITE + ">" + player.getTimePlayed() + "<br>");
@@ -469,7 +469,7 @@ public class InterfaceManager {
 					staffBldr.append(count + ". <img=" + p.getChatIcon() + ">" + p.getDisplayName() + "<br>");
 				}
 			}
-			String staffText = ("<br><col=" + ChatColors.RED + "><u>Staff Online </col>(" + count + ")<br><br>");
+			String staffText = ("<br><col=" + ChatColors.YELLOW + "><u>Staff Online </col>(" + count + ")<br><br>");
 			bldr.append(staffText);
 			bldr.append(staffBldr.toString());
 
