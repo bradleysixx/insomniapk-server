@@ -1,0 +1,43 @@
+Slayer Guide
+To begin Slayer speak to the Slayer Master found North of yanille bank.
+(Talk to Kuradal)
+
+<col=0000FF>Slayer Monsters
+(Level - Name)
+-------------------------------------------------------------
+<col=F0F0F0>5 - Crawling hand
+Found in the Slayer Tower.
+-------------------------------------------------------------
+<col=F0F0F0>15 - Banshee
+Found in the Slayer Tower.
+-------------------------------------------------------------
+<col=F0F0F0>30 - Pyrefiend
+Found in the God Wars dungeon.
+-------------------------------------------------------------
+<col=F0F0F0>50 - Bloodveld
+Found in the God Wars dungeon.
+-------------------------------------------------------------
+<col=F0F0F0>75 - Gargoyle
+Found in the Slayer Tower.
+-------------------------------------------------------------
+<col=F0F0F0>80 - Mutated Jadinko Baby
+(Spirit Tree > Boss Lairs > Jadinko Lair)
+-------------------------------------------------------------
+<col=F0F0F0>83 - Spiritual Mage
+Found in the God Wars dungeon.
+-------------------------------------------------------------
+<col=F0F0F0>85 - Abyssal Demon
+Found in the Slayer Tower.
+-------------------------------------------------------------
+<col=F0F0F0>86 - Mutated Jadinko Guard
+(Spirit Tree > Boss Lairs > Jadinko Lair)
+-------------------------------------------------------------
+<col=F0F0F0>90 - Dark Beast
+Found in the Slayer Tower.
+-------------------------------------------------------------
+<col=F0F0F0>91 - Mutated Jadinko Male
+(Spirit Tree > Boss Lairs > Jadinko Lair)
+-------------------------------------------------------------
+<col=F0F0F0>93 - Ice Strykewyrm
+(Spirit Tree > Boss Lairs > Ice Strykewyrms)
+-------------------------------------------------------------

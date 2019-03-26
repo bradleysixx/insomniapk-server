@@ -1,0 +1,35 @@
+Thieving Guide
+Thieving is done from all over the map, but most commonly accessed via Rogue's Den.
+(Spirit Tree > Skill Training Locations > Rogue's Den)
+
+<col=0000FF>Pickpocketing
+(Level - Name)
+-------------------------------------------------------------
+<col=F0F0F0>1 - Men/Women
+Found in Lumbridge and Rogues Den.
+-------------------------------------------------------------
+<col=F0F0F0>25 - Warrior Women
+Found in Ardougne and Rogues Den.
+-------------------------------------------------------------
+<col=F0F0F0>38 - Master Farmer
+Found in Yanille, Draynor and Rogues Den.
+-------------------------------------------------------------
+<col=F0F0F0>40 - Guard
+Found in Falador, Varrock, Edgeville and Rogues Den.
+-------------------------------------------------------------
+<col=F0F0F0>53 - Bandit
+Found in the Bandit Camp.
+-------------------------------------------------------------
+<col=F0F0F0>70 - Paladin
+Found in Ardougne and Rogues Den.
+-------------------------------------------------------------
+<col=F0F0F0>80 - Hero
+Found in Ardougne and Rogues Den.
+-------------------------------------------------------------
+
+<col=0000FF>Objects
+(Level - Name)
+-------------------------------------------------------------
+<col=F0F0F0>50 - Wall Safe
+Found in the Rogues den located at Taverley.
+-------------------------------------------------------------

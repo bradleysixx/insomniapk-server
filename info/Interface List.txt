@@ -1,0 +1,63 @@
+72
+	Line 55 is title
+	Lines 31-40 are buttons [clickable]
+116
+	Line 2 is title
+	Line 5 is text
+	66 lines of text that can be displayed on this
+227
+	Line 2 is title
+	Diff lines 3-53 are text
+	Can be used for info for things
+256
+	Previous dungeoneering interface
+467
+	Line 136 is title
+	Diff lines 15-73 are text
+	Clickable lines of text
+553
+	Line 90 is title
+	Lines 68-90 are text
+	Can be used for info for things
+561 
+	Line 3 is title
+	Line 4 is header
+	Line 6 is text
+	Can be used for info for things
+629
+	Line 11/12 is title	
+	Lines 41-65 is boxes of text
+	Line 68 is confirm box
+719
+	Line 6 is title
+	Line 3 is text
+	Can be used for info for things
+723
+	Line 12 is title
+	Line 13 is header
+	Lines 6-9 are subtitles
+	Tomatoes next to lines
+	Can be used for some info
+732
+	Can be used for an items shop
+761
+	Clickable lines of text
+788
+	Line 14 is title
+	Line 13 is header
+	Lines 16-55 is text
+	Can be used for info for things
+792 
+	CAN BE USED AS TAB
+	HAS A SCROLL MENU
+	
+797
+	8 options with for teleport select
+	One page
+1073
+	Line 10 is title
+	Line 11	is subtitle
+	Can be used as a small notification overlay
+473
+	Line 31 is title
+	Can be used to sell cool items - has models and explantion space for each + 4 tabs	

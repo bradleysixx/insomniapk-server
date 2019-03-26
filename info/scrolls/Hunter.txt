@@ -1,0 +1,12 @@
+Hunter Guide
+To begin hunter, purchase tools from the Grand Exchange.
+Then teleport to hunting grounds
+(Spirit Tree > Skill Training Locations > Hunting Jungle)
+
+<col=0000FF>Huntable NPCs
+(Level - Name)
+-------------------------------------------------------------
+<col=F0F0F0>1 - Crimsom swift (jungle)
+-------------------------------------------------------------
+<col=F0F0F0>28 - Red chinchompa (jungle)
+-------------------------------------------------------------

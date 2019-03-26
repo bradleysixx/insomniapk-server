@@ -1,0 +1,15 @@
+contsable.p	 has a networth of:	504,418,184
+laz.p	 has a networth of:	131,552,236
+sunshine.p		PIN: [1, 9, 1, 3]	 has a networth of:	84,164,314
+hometown_p_k.p		PIN: [1, 0, 6, 6]	 has a networth of:	73,627,960
+feztastic.p		PIN: [1, 3, 3, 7]	 has a networth of:	39,599,168
+hal.p	 has a networth of:	21,311,169
+fags.p	 has a networth of:	21,297,557
+laz1.p	 has a networth of:	2,461,637
+mod_t.p	 has a networth of:	2,398,710
+constable.p	 has a networth of:	1,553,343
+x.p	 has a networth of:	1,250,001
+mod.p	 has a networth of:	279,972
+testflow.p	 has a networth of:	39,974
+grah.p	 has a networth of:	2,025
+laz2.p	 has a networth of:	1,500

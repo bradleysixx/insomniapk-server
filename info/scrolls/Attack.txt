@@ -1,0 +1,17 @@
+Attack Guide
+<col=0000FF>Basic Weaponry
+Basic weapons can be obtained from ScapeSoft's Grand Exchange. (Located at home)
+For more advanced weaponry, partake in boss killing and or Slayer.
+
+<col=0000FF>Level Requirements
+Bronze - 1
+Iron - 1
+Steel - 5
+Black - 10
+Mithril - 20
+Adamant - 30
+Rune - 40
+Dragon - 60
+Barrows - 70
+
+

@@ -1,0 +1,3 @@
+Construction Guide
+To train Construction go to the home wizard (Wizard > Skill Training Teleports > Plank Making)
+Purchase planks, then run west of home (Yanille bank) and click on the house portal. Enter build mode, and construct from there.

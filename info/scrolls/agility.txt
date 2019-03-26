@@ -1,0 +1,19 @@
+Agility Guide
+To start Agility, teleport using the Spirit tree.
+(Spirit Tree > Skill Training Locations > Agility Training)
+
+<col=0000FF>Course
+(Level - Name)
+-------------------------------------------------------------
+<col=F0F0F0>1 - Gnome beginners course
+No failing, easy course.
+-------------------------------------------------------------
+<col=F0F0F0>35 - Barbarian course
+No failing, intermediate course.
+-------------------------------------------------------------
+<col=F0F0F0>52 - Wilderness course
+No failing, dangerous course.
+-------------------------------------------------------------
+<col=F0F0F0>90 - Advanced barbarian outpost course
+No failing, expert course.
+-------------------------------------------------------------

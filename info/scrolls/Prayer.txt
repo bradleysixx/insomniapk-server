@@ -1,0 +1,13 @@
+Prayer Guide
+To begin Prayer kill NPCs around the world to obtain bones.
+When you think you're strong enough to kill level 79 green dragons.
+Pull the lever at home (Lever > East Dragons > Yes) and you will kill them
+for dragon bones. Use all bones on the alter at home for maximum experience.
+-------------------------------------------------------------
+
+<col=0000FF>Items
+(Name)
+-------------------------------------------------------------
+<col=F0F0F0>Bonecrusher
+The bonecrusher will crush bones upon dropped via npcs for xp
+-------------------------------------------------------------

@@ -1,0 +1,27 @@
+Woodcutting Guide
+Visit the Grand Exchange for axes
+
+<col=0000FF>Trees
+(Level - Name)
+-------------------------------------------------------------
+<col=F0F0F0>1 - Logs
+Can be found around the world (North of Yanille bank)
+-------------------------------------------------------------
+<col=F0F0F0>15 - Oak
+Can be found Near Regular Log trees
+-------------------------------------------------------------
+<col=F0F0F0>30 - Willow
+Can be also found Near Regular Log trees
+-------------------------------------------------------------
+<col=F0F0F0>45 - Maple
+Can be also found Near Regular Log trees
+-------------------------------------------------------------
+<col=F0F0F0>60 - Yew
+Can be also found Near Regular Log trees
+-------------------------------------------------------------
+<col=F0F0F0>68 - Ivy
+Can be found north east of Yanille bank
+-------------------------------------------------------------
+<col=F0F0F0>75 - Magic
+Can be also found Near Regular Log trees
+-------------------------------------------------------------

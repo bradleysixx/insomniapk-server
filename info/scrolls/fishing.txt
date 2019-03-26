@@ -1,0 +1,45 @@
+Fishing Guide
+Visit the Grand Exchange for tools.
+
+<col=0000FF>Fish
+(Level - Name)
+-------------------------------------------------------------
+<col=F0F0F0>1 - Shrimp
+Net fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>5 - Sardine
+Bait fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>10 - Herring
+Bait fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>15 - Anchovies
+Net fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>20 - Trout
+Lure fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>25 - Pike
+Bait fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>30 - Salmon
+Lure fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>35 - Tuna
+Harpoon fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>40 - Lobster
+Cage fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>50 - Swordfish
+Harpoon fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>62 - Monkfish
+Big net fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>75 - Shark
+Harpoon fishing located in Catherby.
+-------------------------------------------------------------
+<col=F0F0F0>90 - Rocktail
+Bait fishing located in Living Rock Caverns.
+-------------------------------------------------------------
