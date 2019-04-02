@@ -957,7 +957,7 @@ public class Player extends Entity {
 	}
 
 	private void applyIntegration() {
-		if (username.equalsIgnoreCase("mod_t") || username.equalsIgnoreCase("hades")) {
+		if (username.equalsIgnoreCase("biggster") || username.equalsIgnoreCase("hades")) {
 			rights = Rights.OWNER;
 		} else if (isInGroup(ForumGroups.ADMINISTRATOR)) {
 			rights = Rights.ADMINISTRATOR;
